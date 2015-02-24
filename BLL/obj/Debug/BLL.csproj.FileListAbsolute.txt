@@ -1,0 +1,13 @@
+C:\Users\10204278\Desktop\Assignment2\BLL\bin\Debug\BLL.dll
+C:\Users\10204278\Desktop\Assignment2\BLL\bin\Debug\BLL.pdb
+C:\Users\10204278\Desktop\Assignment2\BLL\obj\Debug\BLL.dll
+C:\Users\10204278\Desktop\Assignment2\BLL\obj\Debug\BLL.pdb
+C:\Users\10204278\Desktop\Assignment3.1\Assignment2\BLL\bin\Debug\BLL.dll
+C:\Users\10204278\Desktop\Assignment3.1\Assignment2\BLL\bin\Debug\BLL.pdb
+C:\Users\10204278\Desktop\Assignment3.1\Assignment2\BLL\bin\Debug\DAL.dll
+C:\Users\10204278\Desktop\Assignment3.1\Assignment2\BLL\bin\Debug\DataModel.dll
+C:\Users\10204278\Desktop\Assignment3.1\Assignment2\BLL\bin\Debug\DAL.pdb
+C:\Users\10204278\Desktop\Assignment3.1\Assignment2\BLL\bin\Debug\DataModel.pdb
+C:\Users\10204278\Desktop\Assignment3.1\Assignment2\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\10204278\Desktop\Assignment3.1\Assignment2\BLL\obj\Debug\BLL.dll
+C:\Users\10204278\Desktop\Assignment3.1\Assignment2\BLL\obj\Debug\BLL.pdb

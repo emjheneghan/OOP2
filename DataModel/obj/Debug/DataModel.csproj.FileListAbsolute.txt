@@ -1,0 +1,8 @@
+C:\Users\10204278\Desktop\Assignment2\DataModel\bin\Debug\DataModel.dll
+C:\Users\10204278\Desktop\Assignment2\DataModel\bin\Debug\DataModel.pdb
+C:\Users\10204278\Desktop\Assignment2\DataModel\obj\Debug\DataModel.dll
+C:\Users\10204278\Desktop\Assignment2\DataModel\obj\Debug\DataModel.pdb
+C:\Users\10204278\Desktop\Assignment3.1\Assignment2\DataModel\bin\Debug\DataModel.dll
+C:\Users\10204278\Desktop\Assignment3.1\Assignment2\DataModel\bin\Debug\DataModel.pdb
+C:\Users\10204278\Desktop\Assignment3.1\Assignment2\DataModel\obj\Debug\DataModel.dll
+C:\Users\10204278\Desktop\Assignment3.1\Assignment2\DataModel\obj\Debug\DataModel.pdb

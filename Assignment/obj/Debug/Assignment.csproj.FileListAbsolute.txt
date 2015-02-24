@@ -1,0 +1,16 @@
+C:\Users\10204278\Desktop\Assignment\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\10204278\Desktop\Assignment\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+C:\Users\10204278\Desktop\Assignment\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\10204278\Desktop\Assignment\Assignment\obj\Debug\Assignment.csproj.GenerateResource.Cache
+C:\Users\10204278\Desktop\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Users\10204278\Desktop\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Users\10204278\Desktop\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Users\10204278\Desktop\Assignment\Assignment\obj\Debug\Assignment.pdb
+C:\Users\10204278\Desktop\Assignment\Assignment\obj\Debug\Assignment.DepositFunds.resources
+C:\Users\10204278\Desktop\Assignment\Assignment\obj\Debug\Assignment.EditAccount.resources
+C:\Users\10204278\Desktop\Assignment\Assignment\obj\Debug\Assignment.Entry.resources
+C:\Users\10204278\Desktop\Assignment\Assignment\obj\Debug\Assignment.NewAccount.resources
+C:\Users\10204278\Desktop\Assignment\Assignment\obj\Debug\Assignment.MainDisplay.resources
+C:\Users\10204278\Desktop\Assignment\Assignment\obj\Debug\Assignment.Transactions.resources
+C:\Users\10204278\Desktop\Assignment\Assignment\obj\Debug\Assignment.TransferFunds.resources
+C:\Users\10204278\Desktop\Assignment\Assignment\obj\Debug\Assignment.WithdrawFunds.resources
